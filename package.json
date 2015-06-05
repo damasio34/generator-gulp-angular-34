@@ -1,0 +1,28 @@
+{
+  "name": "generator-gulp-angular-34",
+  "version": "1.0.0",
+  "description": "yeoman-generator with gulp and angularJs",
+  "main": "app/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/damasio34/generator-gulp-angular-34.git"
+  },
+  "author": "Darlan Damasio <darlan@damasio34.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damasio34/generator-gulp-angular-34/issues"
+  },
+  "homepage": "https://github.com/damasio34/generator-gulp-angular-34",
+  "files": [
+    "app",
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.20.1"
+  }
+}
